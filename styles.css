@@ -9,16 +9,24 @@ body {
   background-size: 53px;
 }
 
+
+
+.h1-logo-text {
+  display: none;
+  text-transform: uppercase;
+}
+
+.logo {
+  width: 140px;
+  height: 120px;
+}
+
+
+
 #container {
   max-width: 960px;
   background: #fff;
   margin: 0 auto;
-}
-
-.logo {
-  margin: 0 auto;
-  width: 140px;
-  height: 120px;
 }
 
 p {

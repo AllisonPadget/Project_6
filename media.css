@@ -1,0 +1,14 @@
+/* page less than 420px remove text from logo 
+H1 tag that contains logo text */
+
+@media screen and (max-width: 420px) {
+	
+	.logo-text {
+		display: none;
+	}
+
+	.h1-logo-text {
+		display: inline-block;
+	}
+
+}
