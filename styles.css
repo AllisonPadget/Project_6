@@ -110,6 +110,7 @@ transition: transform 1s;
 
 /* nav */
 
+
 .home, .contact {
   width: 15px;
   height: 13px;
@@ -207,6 +208,8 @@ li:hover .bubble, a:hover {
 .doggy {
   transition: transform .8s;
 }
+
+
 
 
 
